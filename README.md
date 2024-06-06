@@ -96,6 +96,3 @@ To understand and analyze customer behaviors based on credit card usage data, th
 - Tailoring marketing strategies to specific customer groups.
 - Managing credit risk by understanding customer usage patterns.
 
-## Contact
-
-For any questions or feedback, please contact [Your Name] at [your email address].
